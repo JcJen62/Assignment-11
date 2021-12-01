@@ -383,7 +383,7 @@ nav ul li.active a {
 /*----------- HAMBURGER --------------*/
 div#hamburger {
   grid-area: hamburger;
-  background-color: #feff98; }
+  background-color: #c0beae; }
 
 /*----------- MAIN --------------*/
 main {
@@ -396,6 +396,17 @@ main {
   main p {
     margin: 0;
     padding: .5rem 0; }
+  main h3 {
+    width: 100%;
+    margin: 0; }
+  main #samsung {
+    float: right; }
+  main #ipad {
+    float: left; }
+  main #ipadPro {
+    float: right; }
+  main #container {
+    margin: 2rem; }
 
 /*----------- FOOTER --------------*/
 footer {

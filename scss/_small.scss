@@ -82,7 +82,7 @@ nav ul li.active a {
 /*----------- HAMBURGER --------------*/
 div#hamburger {
     grid-area: hamburger;
-    background-color: #feff98; 
+    background-color: #c0beae; 
 }
 
 
@@ -93,6 +93,23 @@ main {
     min-height: 10rem;
     h1 {margin: 0; padding: 1rem 0 0 0;}
     p {margin: 0; padding: .5rem 0;}
+    h3 {width: 100%; margin: 0;}
+
+    #samsung{
+        float: right;
+    }
+
+    #ipad {
+        float: left;
+    }
+
+    #ipadPro {
+        float: right;
+    }
+
+    #container {
+        margin: 2rem;
+    }
 }
 
 
