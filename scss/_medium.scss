@@ -1,0 +1,28 @@
+div#pageWrapper {
+    grid-template-areas: "header header" "navigation content" "footer footer";
+    grid-template-columns: 150px auto;
+}
+
+
+/*----------- BODY --------------*/
+
+
+
+/*----------- HEADER --------------*/
+
+
+
+/*----------- NAVIGATION --------------*/
+    nav ul {margin-left: 2%;}
+    nav ul li {flex-basis: 100%;}
+    nav ul li a{padding: .5rem 1rem;}
+    nav {height: auto;}
+    a.myjump {display: none;}
+
+
+/*----------- MAIN --------------*/
+
+
+
+/*----------- FOOTER --------------*/
+    
